@@ -1,0 +1,12 @@
+/__pycache__/
+/.venv311/
+/.vscode/
+/.ipynb_checkpoints/
+*.csv
+*.db
+*.xlsx
+*.png
+*.xlsx
+*.xlsx#
+local.yaml
+credentials.yaml
